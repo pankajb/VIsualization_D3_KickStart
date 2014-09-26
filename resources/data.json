@@ -1,0 +1,89 @@
+
+[
+	{"data1":
+			[
+		  
+			   {  "Year":2001,  "Dollar":6  },
+			   {  "Year":2002,  "Dollar":6.8  },
+			   {  "Year":2003,  "Dollar":7  },
+			   {  "Year":2004,  "Dollar":7.2  },
+			   {  "Year":2005,  "Dollar":6.6  },
+			   {  "Year":2006,  "Dollar":7.2  },
+			   {  "Year":2007,  "Dollar":9.5  },
+			   {  "Year":2008,  "Dollar":11.6  },
+			   {  "Year":2009,  "Dollar":10.5 },
+			   {  "Year":2010,  "Dollar":10.2  },
+			   {  "Year":2011,  "Dollar":9.2  }
+		   ]
+	   },
+   
+	   {"data2":
+			[
+	  
+			   {  "Year":2009,  "Percentage":80  },
+			   {  "Year":2010,  "Percentage":72 },
+			   {  "Year":2011,  "Percentage":69  }
+			]
+	   },
+   
+		{"data3":
+			[
+			  
+			   {  "Device":"Console",  "Percentage":70, "image":"resources/images/image5.jpg" , "id":"a" },
+			   {  "Device":"PC",  "Percentage":65, "image":"resources/images/image6.jpg" , "id":"b" },
+			   {  "Device":"SMARTPHONES",  "Percentage":38, "image":"resources/images/image7.jpg" , "id":"c"  },
+			   {  "Device":"DEDICATED HANDHOLD SYSTEM",  "Percentage":35, "image":"resources/images/image8.jpg" , "id":"d"  },
+			   {  "Device":"WIRELESS DEVICE",  "Percentage":26, "image":"resources/images/image9.jpg"  , "id":"e" }
+				 
+			]
+	   },
+   
+	   {"data4":
+		 [
+			   {  "Year":2011,  "Dollar":80  },
+			   {  "Year":2012,  "Dollar":105 },
+			   {  "Year":2013,  "Dollar":120  },
+			   {  "Year":2014,  "Dollar":140  },
+			   {  "Year":2015,  "Dollar":160  },
+			   {  "Year":2016,  "Dollar":175  }
+			 
+		  ]
+	   },
+   
+	   {"data5":
+		   [
+			   {   "Percentage":42  },
+			   {   "Percentage":25  },
+			   {   "Percentage":33  }
+			 
+		   ]
+	   
+	   
+	   },
+   
+	   {"data6":
+	   
+		   [
+			   {  "Percentage":47  },
+			   {  "Percentage":12  },
+			   {  "Percentage":41  }
+			 
+	   ]
+	   },
+   
+	   {"data7":
+	   
+		   [
+			   {  "Percentage":4.0   },
+			   {  "Percentage":43.8  },
+			   {  "Percentage":33.7  },
+			   {  "Percentage":18.4  }
+			 
+		   ]
+	   }
+   
+   
+   ]
+   
+   
+ 

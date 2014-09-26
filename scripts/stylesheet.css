@@ -1,0 +1,53 @@
+
+body
+{
+font-family:Arial,Helvetica,sans-serif;
+background-color:#FBFBFB;
+
+}
+.text {
+
+}
+  
+.red-text{
+color:#ff0000;
+}
+
+#container
+{
+margin-left:120px;
+
+}
+
+.bar {
+  fill: red;
+}
+
+.bar:hover{
+  fill: brown;
+}
+
+.remainingBar {
+	fill: black;
+}
+.remainingBar:hover {
+	fill: gray;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #f0f0f0;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  
+}
+
+
+
